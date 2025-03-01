@@ -7,6 +7,8 @@ Video Processing Wizard - Sass Level: Over 9000!
 ## Overview
 The Video Processing Wizard is designed to extract frames from a video, upscale them using advanced AI-based tools like Real-ESRGAN, SCUNet, Waifu2x, SwinIR, and more, and reassemble them into a high-quality video. With a playful, sarcastic tone and a sleek interface, this tool is perfect for video enthusiasts, content creators, and developers looking to supercharge their video clarity.
 
+Used Python 3.10.8. 
+
 Key features include:
 - **Frame Extraction**: Break down videos into individual frames for processing.
 - **Advanced Upscaling**: Use state-of-the-art upscaling models (e.g., Real-ESRGAN Vulkan, SwinIR) to enhance resolution and clarity, with an optional downscale step to preserve original size while improving quality.
